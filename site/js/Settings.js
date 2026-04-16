@@ -43,6 +43,7 @@ let themes = [
 ];
 
 const favorites = [
+  `Reddit/Boston`,
   `Reddit/iPhone`,
   `Reddit/Desktop`,
   `Reddit/Wallpaper`,
@@ -62,7 +63,7 @@ const favorites = [
 
 */
 
-let bootup = false;
+let bootup = true;
 
 /*
     topBar [boolean/integer]
@@ -191,7 +192,7 @@ let expand = true;
 
 */
 
-let showSplash = false;
+let showSplash = true;
 
 /*
     sideBarCenter [boolean/integer]
@@ -269,7 +270,7 @@ let toggleBorders = true;
 
 */
 
-let onlySearch = false;
+let onlySearch = true;
 
 /*
     quickFeeds [boolean/integer]
