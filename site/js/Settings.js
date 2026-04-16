@@ -45,6 +45,7 @@ let themes = [
 const favorites = [
   `Reddit/Boston`,
   `Reddit/iPhone`,
+  `Reddit/Disney`,    
   `Reddit/Desktop`,
   `Reddit/Wallpaper`,
   `Reddit/Wallpapers`,
@@ -192,7 +193,7 @@ let expand = true;
 
 */
 
-let showSplash = true;
+let showSplash = false;
 
 /*
     sideBarCenter [boolean/integer]
@@ -270,7 +271,7 @@ let toggleBorders = true;
 
 */
 
-let onlySearch = true;
+let onlySearch = false;
 
 /*
     quickFeeds [boolean/integer]
@@ -283,7 +284,7 @@ let onlySearch = true;
 
 */
 
-let quickFeeds = true;
+let quickFeeds = false;
 
 /*
     scrollIntoView [boolean/integer]
@@ -313,7 +314,7 @@ let scrollIntoView = true;
 
 */
 
-let imageLoader = `loading`;
+let imageLoader = `double-circle`;
 
 /*
     cropImages [boolean/integer]
@@ -340,7 +341,7 @@ let cropImages = false;
 
 */
 
-let fadeIntoView = true;
+let fadeIntoView = false;
 
 /*
     loading [string]
@@ -368,7 +369,7 @@ let loading = `percent`;
 
 */
 
-let titleTruncate = 125;
+let titleTruncate = 195;
 
 /*
     category [translations/legacy]
@@ -381,7 +382,7 @@ let titleTruncate = 125;
 
 */
 
-let category = `Local`;
+let category = `favorites`;
 
 /*
     onlyImages [boolean/integer]
