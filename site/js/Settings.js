@@ -540,9 +540,9 @@ let exclude = [`Buy`, `Sale`, `Save`, `Price`, `Shop`, `Directions`, `Coupon`, `
 //const cors = `https://oembanks-1615a0956a22.herokuapp.com/`;
 //const cors = `https://api.cors.lol/?url=`;
 //const cors = `https://cors-anywhere.com/`;
-//const cors = `https://corsproxy.io/?url=`;
+const cors = `https://corsproxy.io/?url=`;
 //const cors = `https://proxy.cors.sh/`;
-const cors = `https://whateverorigin.org/get?url=`;
+//const cors = `https://whateverorigin.org/get?url=`;
 /*  translations [array]
 
       Applications
