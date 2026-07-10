@@ -535,10 +535,10 @@ let exclude = [`Buy`, `Sale`, `Save`, `Price`, `Shop`, `Directions`, `Coupon`, `
         ty heroku (cors-anywhere instance)
 
 */
-//const cors= `https://test.cors.workers.dev`;
+const cors= `https://test.cors.workers.dev`;
 //const cors= `https://oembanks.github.io/corspf/`;
 //const cors = `https://oembanks-1615a0956a22.herokuapp.com/`;
-const cors = `https://api.cors.lol/?url=`;
+//const cors = `https://api.cors.lol/?url=`;
 //const cors = `https://cors-anywhere.com/`;
 //const cors = `https://corsproxy.io/?url=`;
 //const cors = `https://proxy.cors.sh/`;
