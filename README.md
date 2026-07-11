@@ -41,7 +41,7 @@ Vanity [<b>katana.privateimport.jp</b>](http://katana.privateimport.jp "nand")
 <em>cloudflare https://github.com/Zibri/cloudflare-cors-anywhere</em>
 `clone and build to git repository with cloudflare-cors-anywhere</em>
 
-
+https://cors-anywhere.herokuapp.com/ to use browser testing...
 
 Want to Contribute?
 ----
