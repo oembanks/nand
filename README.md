@@ -38,6 +38,11 @@ Vanity [<b>katana.privateimport.jp</b>](http://katana.privateimport.jp "nand")
 `heroku create`  
 `git push heroku master`  
 
+<em>cloudflare https://github.com/Zibri/cloudflare-cors-anywhere</em>
+`clone and build to git repository with cloudflare-cors-anywhere</em>
+
+
+
 Want to Contribute?
 ----
 
