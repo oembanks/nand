@@ -378,7 +378,7 @@ var menu=[
 {id:`Euro News`,category:`World`,title:``,description:`Euro News is unapologetically impartial and seeks to offer a diversity of viewpoints.`,uri:`http://feeds.feedburner.com/euronews/en/home`,image:`EuroNews`,hash:`nU`,media:!1},
 {id:`Computer Weekly`,category:`Technology`,title:``,description:`Computer Weekly stands out from the many Technology Websites.`,uri:`https://www.computerweekly.com/rss/RSS-Feed.xml`,image:`ComputerWeekly`,hash:`Wc`,media:!1},
 {id:`The Wrap`,category:`Global`,title:``,description:`The Wrap is the leading digital-first organization covering the business of entertainment and media via digital, print and live events.`,uri:`https://www.thewrap.com/feed`,image:`TheWrap`,hash:`wT`,media:!0},
-
+{id:`MTV`,category:`Global`,title:``,description:`MTV The ultimate source for music, celebrity, entertainment, movies, and current events.`,uri:`http://www.mtv.com/news/feed`,image:`MTV`,hash:`Vm`,media:!0},
 {id:`ABC/Fresno`,category:`Local`,title:``,description:`KFSN Local Fresno and National News.`,uri:`https://abc30.com/feed`,image:`KFSNTV30`,hash:`fA`,media:!0},
 {id:`NBC/Palm Springs`,category:`Local`,title:``,description:`KMIR California Palm Springs, Weather, Traffic, where Breaking News comes first.`,uri:`https://nbcpalmsprings.com/feed`,image:`KMIR`,hash:`rK`,media:!1},
 {id:`CBS/Fort Myers`,category:`Local`,title:``,description:`WINK Florida Fort Myers one of a handful of TV stations today to have locally-based ownership.`,uri:`https://www.winknews.com/feed`,image:`WINK`,hash:`nI`,media:!0},
