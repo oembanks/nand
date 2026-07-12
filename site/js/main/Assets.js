@@ -379,10 +379,6 @@ var menu=[
 {id:`Computer Weekly`,category:`Technology`,title:``,description:`Computer Weekly stands out from the many Technology Websites.`,uri:`https://www.computerweekly.com/rss/RSS-Feed.xml`,image:`ComputerWeekly`,hash:`Wc`,media:!1},
 {id:`The Wrap`,category:`Global`,title:``,description:`The Wrap is the leading digital-first organization covering the business of entertainment and media via digital, print and live events.`,uri:`https://www.thewrap.com/feed`,image:`TheWrap`,hash:`wT`,media:!0},
 
-
-//Unused no images below
-
-
 {id:`ABC/Fresno`,category:`Local`,title:``,description:`KFSN Local Fresno and National News.`,uri:`https://abc30.com/feed`,image:`KFSNTV30`,hash:`fA`,media:!0},
 {id:`NBC/Palm Springs`,category:`Local`,title:``,description:`KMIR California Palm Springs, Weather, Traffic, where Breaking News comes first.`,uri:`https://nbcpalmsprings.com/feed`,image:`KMIR`,hash:`rK`,media:!1},
 {id:`CBS/Fort Myers`,category:`Local`,title:``,description:`WINK Florida Fort Myers one of a handful of TV stations today to have locally-based ownership.`,uri:`https://www.winknews.com/feed`,image:`WINK`,hash:`nI`,media:!0},
@@ -414,13 +410,6 @@ var menu=[
 {id:`CBS/Sacramento`,category:`Local`,title:``,description:`KOVR California Sacramento also serving Stockton and Modesto.`,uri:`https://sacramento.cbslocal.com/feed`,image:`CBS13`,hash:`bO`,media:!0},
 {id:`ABC/New York`,category:`Local`,title:``,description:`WNew York covering New York City, New Jersey, and Long Island.`,uri:`https://abc7ny.com/feed`,image:`WABC7`,hash:`yN`,media:!0},
 {id:`CBS/New York`,category:`Local`,title:``,description:`WLNY New York City Digital Streaming Service, It's always on.`,uri:`https://newyork.cbslocal.com/feed`,image:`WLNY1055`,hash:`Ny`,media:!0},
-
-
-{id:`Central News`,category:`Local`,description:`Central News Now latest, breaking Central news on ITV News. Videos, stories and updates`,uri:`https://centralnewsnow.com/feed`,ext:`https://centralnewsnow.com`,hash:`a1`,media:!0},
-{id:`New York Sun`,category:`Local`,description:`The New York Sun was the first successful penny daily newspaper in the United States.`,uri:`https://www.nysun.com/rss.xml`,ext:`https://www.nysun.com`,hash:`a2`,media:!0},
-{id:`Salt Lake Tribune`,category:`Local`,description:`The Salt Lake Tribune covers news, entertainment, sports and faith for Salt Lake City and the state of Utah.`,uri:`https://www.sltrib.com/arcio/rss/category/news/nation-world/?summary=true`,ext:`https://www.sltrib.com/news/nation-world`,hash:`a3`,media:!0},
-{id:`Baltimore Sun`,category:`Local`,description:`Baltimore Sun Your source for breaking news, sports, business, entertainment, weather and traffic.`,uri:`https://www.baltimoresun.com/arcio/rss/category/latest/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link`,ext:`https://www.baltimoresun.com`,hash:`a4`,media:!0},
-{id:`Star Tribune`,category:`Local`,description:`Minneapolis Star Tribune the largest newspaper in Minnesota.`,uri:`http://www.startribune.com/rss`,ext:`http://www.startribune.com`,hash:`a5`,media:!0},
 {id:`CBS/Palm Springs`,category:`Local`,description:`CBS KESQ California Palm Springs Daily News Headlines Morning Forecast Breaking News Severe Weather.`,uri:`https://kesq.com/feed`,ext:`https://kesq.com`,hash:`a6`,media:!0},
 {id:`NBC/Birmingham`,category:`Local`,description:`NBC WVTM Alabama Birmingham broadcasts across Central Alabama.`,uri:`https://www.wvtm13.com/topstories-rss`,ext:`https://www.wvtm13.com`,hash:`a7`,media:!0},
 {id:`CBS/42`,category:`Local`,description:`CBS WIAT Alabama Birmingham Local, Weather, and Live.`,uri:`https://www.cbs42.com/feed`,ext:`https://www.cbs42.com`,hash:`a8`,media:!0},
@@ -432,7 +421,6 @@ var menu=[
 {id:`ABC/Arkansas`,category:`Local`,description:`ABC KHBS Arkansas Fort Smith Trending and Latest Headlines.`,uri:`https://www.4029tv.com/topstories-rss`,ext:`https://www.4029tv.com`,hash:`b6`,media:!0},
 {id:`NBC/Arizona`,category:`Local`,description:`NBC KYMA Arizona television station licensed to Yuma, Arizona.`,uri:`https://kyma.com/feed`,ext:`https://kyma.com`,hash:`b7`,media:!0},
 {id:`NBC/Arkansas`,category:`Local`,description:`NBC KTVE Arkansas El Dorado Your Southern Arkansas Local News Leader.`,uri:`https://www.myarklamiss.com/feed`,ext:`https://www.myarklamiss.com`,hash:`c1`,media:!0},
-{id:`FOX/KFTA`,category:`Local`,description:`FOX KFTA Arkansas Fort Smith overs the rapidly growing and vibrant Northwest Arkansas and River Valley.`,uri:`https://www.nwahomepage.com/feed`,ext:`https://www.nwahomepage.com`,hash:`c2`,media:!0},
 {id:`CBS/Fort Smith`,category:`Local`,description:`CBS KFSM Arkansas Fort Smith serving the Arkansas River Valley and Northwest Arkansas.`,uri:`https://5newsonline.com/feed`,ext:`https://5newsonline.com`,hash:`c3`,media:!0},
 {id:`ABC/KRDO`,category:`Local`,description:`ABC KRDO Colorado Springs Latest News Local and National.`,uri:`https://krdo.com/feed`,ext:`https://krdo.com`,hash:`c4`,media:!0},
 {id:`CBS/Colorado`,category:`Local`,description:`CBS KREX Colorado Grand Junction The Latest News and Updates in Local News brought to you by the team at KREX.`,uri:`https://www.westernslopenow.com/feed`,ext:`https://www.westernslopenow.com`,hash:`c5`,media:!0},
@@ -542,50 +530,16 @@ var menu=[
 {id:`ABC/Wheeling`,category:`Local`,description:`ABC WTRF West Virginia Wheeling We tell local Wheeling news & weather stories.`,uri:`https://www.wtrf.com/feed`,ext:`https://www.wtrf.com`,hash:`t1`,media:!0},
 {id:`ABC/Eagle River`,category:`Local`,description:`ABC WYOW Wisconsin Eagle River the station is owned by Quincy Media.`,uri:`https://waow.com/feed`,ext:`https://waow.com`,hash:`u1`,media:!0},
 {id:`ABC/Eau Claire`,category:`Local`,description:`ABC WQOW Wisconsin Eau Claire Digging Deeper into issues that affect the Chippewa Valley.`,uri:`https://wqow.com/feed`,ext:`https://wqow.com`,hash:`v1`,media:!0},
-{id:`AB/Wisconsin`,category:`Local`,description:`ABC WXOW Wisconsin La Crosse your home for La Crosse area news, weather, and sports.`,uri:`https://wxow.com/feed`,ext:`https://wxow.com`,hash:`w1`,media:!0},
+{id:`ABC/Wisconsin`,category:`Local`,description:`ABC WXOW Wisconsin La Crosse your home for La Crosse area news, weather, and sports.`,uri:`https://wxow.com/feed`,ext:`https://wxow.com`,hash:`w1`,media:!0},
 {id:`CBS/KBJR`,category:`Local`,description:`CBS KBJR Wisconsin works in Superior, Duluth, Minnesota, Wisconsin areas.`,uri:`https://kbjr6.com/feed`,ext:`https://kbjr6.com`,hash:`x1`,media:!0},
 {id:`ABC/Wausau`,category:`Local`,description:`ABC WISN Wisconsin Wausau the day’s biggest stories and ones you may have missed.`,uri:`https://www.wisn.com/topstories-rss`,ext:`https://www.wisn.com`,hash:`y1`,media:!0},
 {id:`NBC/Southwestern`,category:`Local`,description:`NBC15 Wisconsin Southwestern News, Sports, Weather and Live Updates.`,uri:`https://www.nbc15.com/content/news/index.rss`,ext:`https://www.nbc15.com`,hash:`zz`,media:!0},
-
-
 {id:`ABC/Media`,category:`Media`,title:``,description:`Entertainment Latest, Videos and Photos.`,uri:`https://abcnews.go.com/abcnews/entertainmentheadlines`,image:`ABC`,hash:`Na`,media:!0},
 {id:`AOL`,category:`Media`,title:``,description:`AOL Headlines in Business, Entertainment, Politics, and Video.`,uri:`https://www.aol.com/rss`,image:`AOL`,hash:`mA`,media:!0},
+{id:`Central News`,category:`Local`,description:`Central News Now latest, breaking Central news on ITV News. Videos, stories and updates`,uri:`https://centralnewsnow.com/feed`,ext:`https://centralnewsnow.com`,hash:`a1`,media:!0},
+{id:`New York Sun`,category:`Local`,description:`The New York Sun was the first successful penny daily newspaper in the United States.`,uri:`https://www.nysun.com/rss.xml`,ext:`https://www.nysun.com`,hash:`a2`,media:!0},
+{id:`Salt Lake Tribune`,category:`Local`,description:`The Salt Lake Tribune covers news, entertainment, sports and faith for Salt Lake City and the state of Utah.`,uri:`https://www.sltrib.com/arcio/rss/category/news/nation-world/?summary=true`,ext:`https://www.sltrib.com/news/nation-world`,hash:`a3`,media:!0},
+{id:`Baltimore Sun`,category:`Local`,description:`Baltimore Sun Your source for breaking news, sports, business, entertainment, weather and traffic.`,uri:`https://www.baltimoresun.com/arcio/rss/category/latest/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link`,ext:`https://www.baltimoresun.com`,hash:`a4`,media:!0},
+{id:`Star Tribune`,category:`Local`,description:`Minneapolis Star Tribune the largest newspaper in Minnesota.`,uri:`http://www.startribune.com/rss`,ext:`http://www.startribune.com`,hash:`a5`,media:!0}
 ];
 
-
-
-/*
-{id:`Market Watch`,category:`World`,title:``,description:`Market Watch published by Dow Jones & Co., tracks the pulse of markets for engaged investors.`,uri:`http://feeds.marketwatch.com/marketwatch/topstories`,image:`MarketWatch`,hash:`kW`,media:!1},
-{id:`TIME Magazine`,category:`World`,title:``,description:`Time Magazine is one of the most authoritative and informative guides to what is happening in the world.`,uri:`http://feeds.feedburner.com/time/topstories?format=xml`,image:`TIME`,hash:`mI`,media:!1},
-{id:`Unilad co uk`,category:`World`,title:``,description:`Unilad.co.uk a British Internet media company and website.`,uri:`https://unilad.co.uk/feed`,image:`Unilad`,hash:`uL`,media:!0},
-{id:`USA Today World News`,category:`World`,title:``,description:`USA Today delivers local and national information on sports, entertainment, finance, technology, and more.`,uri:`http://rssfeeds.usatoday.com/usatoday-newstopstories&x=1`,image:`USAToday`,hash:`aY`,media:!0},
-{id:`Washington Examiner World`,category:`World`,title:``,description:`Washington Examiner World News.`,uri:`http://feeds.feedburner.com/dcexaminer/WorldNews`,image:`WashingtonExaminer`,hash:`hX`,media:!1},
-{id:`CNBC World`,category:`World`,title:``,description:`CNBC headlines from around the world.`,uri:`https://www.cnbc.com/id//device/rss/rss.html`,image:`CNBC`,hash:`nB`,media:!1},
-{id:`USA Today Tech`,category:`Technology`,title:``,description:`USA Today Technology is an internationally distributed American daily, middle-market Newspaper.`,uri:`http://rssfeeds.usatoday.com/usatoday-techtopstories&x=1`,image:`USAToday`,hash:`sY`,media:!0},
-{id:`Washington Examiner Tech`,category:`Technology`,title:``,description:`Washington Examiner Science and Technology.`,uri:`http://feeds.feedburner.com/dcexaminer/tech`,image:`WashingtonExaminer`,hash:`xW`,media:!1},
-{id:`The Gadget Flow`,category:`Technology`,title:``,description:`The Gadget Flow Stay up to date with the tech, gear, and most incredible crowdfunding campaigns.`,uri:`http://feeds.feedburner.com/thegadgetflow`,image:`TheGadgetFlow`,hash:`aH`,media:!0},
-{id:`BetaNews`,category:`Technology`,title:``,description:`BetaNews is a leading source of Technology and Analysis.`,uri:`http://feeds.betanews.com/bn`,image:`BetaNews`,hash:`Wb`,media:!1},
-{id:`Digit.in`,category:`Technology`,title:``,description:`Digit.in is one of the most popular technology portals in India, visited by tens of millions of visitors every month.`,uri:`http://feeds.feedburner.com/digit/latest-from-digit`,image:`Digit`,hash:`dG`,media:!0},
-{id:`GeekWire`,category:`Technology`,title:``,description:`GeekWire is an American Technology site that covers Startups and Established Technology Companies.`,uri:`https://www.geekwire.com/feed`,image:`GeekWire`,hash:`gI`,media:!0},
-{id:`gHacks`,category:`Technology`,title:``,description:`gHacks the Independent Technology blog.`,uri:`https://www.ghacks.net/feed`,image:`gHacks`,hash:`Ga`,media:!0},
-{id:`Independent co uk Tech`,category:`Technology`,title:``,description:`Independent.co.uk for Gadgets and Tech information.`,uri:`http://www.independent.co.uk/life-style/gadgets-and-tech/rss`,image:`TheIndependent`,hash:`iT`,media:!0},
-{id:`TechCrunch`,category:`Technology`,title:``,description:`TechCrunch Reports on the Business of Technology, Startups, Venture Capital funding, and Silicon Valley.`,uri:`http://feeds.feedburner.com/TechCrunch`,image:`TechCrunch`,hash:`cT`,media:!1},
-{id:`Vulture`,category:`Global`,title:``,description:`Vulture, the culture and entertainment site from New York magazine, offers smart, comprehensive coverage of movies, TV, music and much more.`,uri:`http://feeds.feedburner.com/nymag/vulture?fmt=xml`,image:`Vulture`,hash:`vF`,media:!1},
-{id:`People`,category:`Global`,title:``,description:`People is an American Weekly Magazine of Celebrity and Human-Interest Stories.`,uri:`https://people.com/tag/news/feed`,image:`People`,hash:`lP`,media:!0},
-{id:`Perez Hilton`,category:`Global`,title:``,description:`PerezHilton is known for posts covering Gossip Items about Celebrities.`,uri:`https://perezhilton.com/feed`,image:`PerezHilton`,hash:`nZ`,media:!1},
-{id:`Sportzet`,category:`Sports`,title:``,description:`Sportzet international Sports and World Headlines.`,uri:`https://www.sportzet.com/feed`,image:`Sportzet`,hash:`zP`,media:!1},
-{id:`CNN`,category:`Global`,title:``,description:`CNN Entertainment Celebrities, Movies, TV, and Music.`,uri:`http://rss.cnn.com/rss/cnn_showbiz.rss`,image:`CNN`,hash:`mN`,media:!1},
-{id:`Daily Beast`,category:`Global`,title:``,description:`Daily Beast is a News and Opinion Website focusing on Politics and Entertainment Culture.`,uri:`https://feeds.thedailybeast.com/summary/rss/articles`,image:`DailyBeast`,hash:`bD`,media:!0},
-{id:`Hollywood Unlocked`,category:`Global`,title:``,description:`Hollywood Unlocked is an exclusive entertainment platform that provides celebrity updates in a truthful and positive light.`,uri:`http://thehollywoodunlocked.com/feed`,image:`HollywoodUnlocked`,hash:`uD`,media:!1},
-{id:`MovieWeb`,category:`Global`,title:``,description:`MovieWeb is the Fastest, Most Complete Movie & TV Coverage on the Planet.`,uri:`https://movieweb.com/rss/all-news`,image:`MovieWeb`,hash:`eW`,media:!0},
-{id:`MTV`,category:`Global`,title:``,description:`MTV The ultimate source for music, celebrity, entertainment, movies, and current events.`,uri:`http://www.mtv.com/news/feed`,image:`MTV`,hash:`Vm`,media:!0},
-{id:`USA Today`,category:`Global`,title:``,description:`USA Today People celebrity, gossip and interviews.`,uri:`http://rssfeeds.usatoday.com/toppeople&x=1`,image:`USAToday`,hash:`sY`,media:!0},
-{id:`Bleacher Report`,category:`Sports`,description:`Bleacher Report is a website that focuses on sport and sports culture.`,uri:`https://bleacherreport.com/articles/feed`,ext:`https://bleacherreport.com`,image:`BleacherReport`,hash:`bR`,media:!1},
-{id:`NBC Sports`,category:`Sports`,title:``,description:`NBC Sports is responsible for the televising of many Sports Events.`,uri:`https://sports.nbcsports.com/feed`,image:`NBCNews`,hash:`oP`,media:!0},
-{id:`Sporting News`,category:`Sports`,title:``,description:`Sporting News was established in 1886 as a weekly U.S. Magazine.`,uri:`http://www.sportingnews.com/us/rss`,image:`SportingNews`,hash:`wS`,media:!0},
-{id:`USA Today Sports`,category:`Sports`,title:``,description:`USA Today Sports Top Stories from the world on sports.`,uri:`http://rssfeeds.usatoday.com/usatodaycomsports-topstories&x=1`,image:`USAToday`,hash:`sU`,media:!0},
-{id:`CNN Sports`,category:`Sports`,title:``,description:`CNN Sports catalogues the latest from around the World.`,uri:`http://rss.cnn.com/rss/edition_sport.rss`,image:`CNN`,hash:`Nn`,media:!1},
-{id:`The Score PGA`,category:`Sports`,title:``,description:`The Score PGA tour news, and everything golf.`,uri:`https://feeds.thescore.com/pga.rss`,image:`TheScore`,hash:`pG`,media:!0},
-{id:`Goal`,category:`Sports`,title:``,description:`Goal Soccer Live Scores, Results, Rumours, and Transfers.`,uri:`https://www.goal.com/feeds/en/news`,image:`Goal`,hash:`gA`,media:!0},
-{id:`Washington Examiner Sports`,category:`Sports`,title:``,description:`Washington Examiner The Washington Examiner is an American conservative website and weekly magazine based in Washington, D.C.`,uri:`http://feeds.feedburner.com/dcexaminer/Sports`,image:`WashingtonExaminer`,hash:`wE`,media:!1},
-*/
